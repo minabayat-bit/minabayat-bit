@@ -1,4 +1,4 @@
-# 👋 Hi, I'm [Mina Bayat]
+# 👋 Hi, I'm Mina Bayat
 
 ### 💻 Front-End Developer | ⚛️ React & Next.js
 
